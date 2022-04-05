@@ -1,42 +1,50 @@
 [   
     {
+        "id": 1,
         "name": "Justin R. Cartier",
         "rating": "4.5",
         "review": "Great phone!"
     },
     {
+        "id": 2,
         "name": "Ricardo B. Burch",
         "rating": "5",
         "review": "With a better processor, you get better battery life (Because the CPU finish the task faster), you get better camera photo processing, you get better performance in apps and games...So unless you're taking pictures endlessly on your phone, this phone surpass even a flagship android at half the price."
     },
     {
+        "id": 3,
         "name": "Mitzi A. Dawson",
         "rating": "4.5",
         "review": "It's the Intel modem, Pineapple had a disagreement with Qualcomm and used Intel modem in this phone instead and it's not as good. Qualcomm modems are back in i uPhone 12 and 13."
     },
     {
+        "id": 4,
         "name": "Linda T. Richmond",
         "rating": "3.8",
         "review": "Jumped ship back to uphone , this my first ever pro ! Got fed up with all the updates on samsung s20fe and the updates that are always late, wish pineapple would use the uphone 11 shape and 6.1 this pro is a big 5 se ?"
     },
     {
+        "id": 5,
         "name": "Natalia F. Allen",
         "rating": "4.9",
         "review": "not haters. just telling the truth. good from all sight."
     },
     {
+        "id": 6,
         "name": "Deirdre E. Mauldin",
         "rating": "5",
         "review": "This phone is with me since 5 years and has very good phone love you pineapple"
     },
     {
+        "id": 7,
         "name": "James M. Custer",
         "rating": "4",
         "review": "uphone working great after 15.4 better to stay up to date."
     },
     {
-            "name": "Julio E. Kingston",
-            "rating": "5",
-            "review": "Battery is given already for the uphone… for me it's alright… i always have my 20000mAh powerbank…. Nice phone"
+        "id": 8,
+        "name": "Julio E. Kingston",
+        "rating": "5",
+        "review": "Battery is given already for the uphone… for me it's alright… i always have my 20000mAh powerbank…. Nice phone"
     }
 ]

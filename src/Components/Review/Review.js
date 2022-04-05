@@ -1,6 +1,7 @@
 import React from "react";
 
 function Review(props) {
+  // Destructuring data from props
   const { name, rating, review } = props.review;
 
   return (
