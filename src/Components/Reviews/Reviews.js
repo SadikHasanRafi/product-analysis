@@ -13,7 +13,6 @@ const Reviews = () => {
     
     return (
         <div>
-           <p className='text-center text-6xl'>{reviews.length}</p>
             {
                 reviews.map(review=><Review
                     review={review}
