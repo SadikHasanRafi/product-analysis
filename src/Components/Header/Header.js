@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Logo from './logo.png'
 
 const Navigation = () => {
     return (
-        <nav className='flex justify-center'>
-            <ul className='flex justify-evenly w-1/3 py-7 text-2xl'>
+        <nav className='flex justify-evenly items-center'>
+            <img src={Logo} className='h-12' alt="Logo" />
+            <ul className='flex justify-evenly w-1/3 py-10 text-2xl'>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/reviews">Reviews</Link></li>
                 <li><Link to="/dashboard">Dashboard</Link></li>
