@@ -1,3 +1,19 @@
+# Pineapple
+
+## live link: [Live link](https://symphonious-bublanina-23c2f8.netlify.app/)
+## Repo link / Code link: [Repo link / Code link](https://github.com/programming-hero-web-course-4/product-analysis-website-SadikHasanRafi)
+
+
+<br><br>
+
+## Things used in this project
+- Rechart used
+- Route navigation 
+- Tailwind used
+- Custom hook 
+
+
+<br><br><br><br><br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
